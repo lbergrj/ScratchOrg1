@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Ativo__c</members>
+		<members>Carteira__c</members>
+		<members>Instituicao__c</members>
+		<members>ItemCarteira__c</members>
+		<members>Mercado__c</members>
+		<name>CustomObject</name>
+	</types>
+	<version>53.0</version>
+</Package>
